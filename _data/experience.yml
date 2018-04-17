@@ -1,0 +1,108 @@
+- title: Internship - Devops Engineer
+  dateinit: 2017-09-01
+  dateend: Present
+  company: Bonita
+  country: France
+  description: Provide a solution to use Continuous Delivery practices for Bonita Stack
+  activities:
+    - Create and modify Ansible scripts
+    - Design and development in python
+    - Automation of deployment in AWS
+    - Participation in the implementation of Jenkins and Nexus
+  technologies:
+    - Ansible
+    - Amazon AWS
+    - Jenkins
+    - Maven
+    - Nexus
+    - Python
+    - git
+
+- title: Internship - Research
+  dateinit: February-2017
+  dateend: June-2017
+  company: LIG Research Project <a href="https://persyval-lab.org/en/exploratory-project/automated-porting-device-drivers-apd2">APD2</a>
+  country: France
+  description: Working in a research team with an exploratory project about The Automation Porting of Device Drivers
+  activities:
+    - Creating scripts in Coccinelle to search in Linux Code
+    - Creating scripts in Termite
+    - Analyzing linux code and results from Coccinelle and Termite
+  technologies:
+    - Coccinnelle
+    - Haskell
+    - C
+    - ocaml
+    - LaTeX
+
+- title: Analyst-Developer JEE - Android
+  dateinit: June-2014
+  dateend: March-2016
+  company: Lothar SA - Tigo
+  country: Paraguay
+  description:  Working in a developer team on different projects, all with different stacks and depending on other architectures like SMSSender, USSD, middleware and others
+  activities:
+    - Supporting and Maintaining JEE applications
+    - Analyzing and developing new features
+    - Redaction of the documentation
+    - Supporting, maintaining and adding new features in android application <a href="https://play.google.com/store/apps/details?id=com.tigo.cs.android">Google Play</a>
+    - Analyzing and developing a new multi-stack application <a href="https://play.google.com/store/apps/details?id=com.tigo.star.android.v2&hl=en">Google Play</a>
+  technologies:
+    - Oracle 12c
+    - RedHat
+    - svn
+    - maven
+    - J2EE
+    - JMeter
+    - Glassfish
+    - Rest
+
+- title: Data Base Administrator
+  dateinit: February-2012
+  dateend: May-2014
+  company: Contrataciones Públicas
+  country: Paraguay
+  description: In charge of the Development and Preproduction Database
+  activities:
+    - Installation and configuration of the development  and preproduction environment
+    - Checking log status
+    - Query, function and procedure optimization
+    - Backups
+    - Design and Implementation of a Replication System and restore procedure
+    - Design and development of a database multi index for searching related data in the database
+  technologies:
+    - PostgreSQL
+    - MySQL
+    - REDHAT 7
+    - PgBench
+    - Zennos
+    - Bash
+    - HeartBeat
+    - PgPool
+
+- title: Freelance Developer
+  dateinit: September-2011
+  dateend: December-2012
+  company: The Derby
+  country: Paraguay
+  description:
+  activities:
+    - Supporting and Maintaining J2ME application.
+  technologies:
+    - Java J2ME
+    - Android
+    - PHP
+    - Delphi
+    - RAD Studio
+
+- title: Developer
+  dateinit: September 2011
+  dateend: January-2012
+  company: Computer and System Department, Justice Palace
+  country: Paraguay
+  description: Developer
+  activities:
+    - Design and Development of a Criminal Record search web-site
+  technologies:
+    - .NET
+    - SQL Server

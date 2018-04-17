@@ -1,0 +1,52 @@
+- name: Programming Languages
+  techologies:
+    - Java
+    - JEE
+    - JME
+    - C
+    - PHP
+    - Python
+    - Ruby
+- name: Programming web
+  techologies:
+    - JSE
+    - Javascript
+    - Angular 4
+    - Bootstrap
+    - CSS
+    - Jekyll
+- name: Programming mobile
+  techologies:
+    - Ionic
+    - Java-Android
+    - J2ME
+- name: Data Base
+  techologies:
+    - Oracle 12c
+    - SQL Serve
+    - MySQl
+    - PostgreSQL
+- name: Tools
+  techologies:
+    - Intellij Idea
+    - Eclipse
+    - Maven
+    - Ant
+    - SVN
+    - GIT
+    - Jira
+    - Github
+- name: Middleware
+  techologies:
+    - Glassfish
+    - WebLogic
+    - Wildfly
+- name: OS
+  techologies:
+    - Mac OS
+    - Windows
+    - Linux
+- name: Modelling
+  techologies:
+    - UML
+    - OCL

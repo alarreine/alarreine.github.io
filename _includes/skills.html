@@ -1,0 +1,19 @@
+<section class="skills-section section">
+    <h2 class="section-title"><i class="fa fa-rocket"></i>Skills &amp; Proficiency</h2>
+    <div class="skillset">
+        {% for item in site.data.skill %}
+
+        <div class="item">
+            <h3 class="level-title">{{item.name}}</h3>
+            <div class="tag-bar">
+                {% for tec in item.techologies %}
+                <p class="tag-techno">{{tec}}</p>
+                {% endfor %}
+            </div><!--//level-bar-->
+        </div><!--//item-->
+
+        {% endfor %}
+
+
+    </div>
+</section><!--//skills-section-->

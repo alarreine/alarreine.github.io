@@ -1,0 +1,30 @@
+
+title: Gerardo Larreinegabe - Resume
+url: 'https://alarreine.github.io'
+baseurl: '/cv' #change it according to your repository name
+exclude: ['README.md', 'LICENCE.md']
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+
+#Profile information
+name: Gerardo Larreinegabe
+tagline: Software Engineer
+pic: moi.png
+summary: Developer with 3 years of experience in JEE and Java-Android. I have also an experience in Databases like Postgresql and Oracle. I'm working today as a DevOps Engineer (internship), learning new skills in the DevOps Culture and its tools. I am interested in new technologies and the opportunities that can bring web-mobile development, I wish to continue my career innovating on development projects as a software architect and/or developer/architect.
+
+#sidebar links
+email: alarreine@gmail.com
+phone: +33 07 85 79 06 96
+#website:
+linkedin: agustin-larreinegabe-029b3458
+github: alarreine
+#twitter:
+style: styles-6
+
+#Update all the sections by editing the files inside _includes folder.

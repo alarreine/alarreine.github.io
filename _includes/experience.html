@@ -1,0 +1,32 @@
+<section class="section experiences-section">
+    <h2 class="section-title"><i class="fa fa-briefcase"></i>Experiences</h2>
+
+    {% for item in site.data.experience %}
+
+    <div class="item">
+        <div class="meta">
+            <div class="upper-row">
+                <h3 class="job-title">{{item.title}}</h3>
+                <div class="time">{{item.dateinit}} - {{item.dateend}}</div>
+                <div class="country">{{item.country}}</div>
+            </div><!--//upper-row-->
+            <div class="company">{{item.company}}</div>
+        </div><!--//meta-->
+        <div class="details">
+            {{item.description}}
+            <ul>
+            {% for act in item.activities %}
+            <li>{{act}}
+            {% endfor %}
+            </ul>
+        </div><!--//details-->
+
+        {% for tec in item.technologies %}
+        <p class="competence">{{tec}}</p>
+        {% endfor %}
+
+    </div><!--//item-->
+
+    {% endfor %}
+
+</section><!--//section-->
