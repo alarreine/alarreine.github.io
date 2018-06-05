@@ -370,6 +370,7 @@
   \textsc{#5}    & \begin{minipage}[t]{\rightcolumnlength}
   					         #6
                    \end{minipage}										\\*
+                 & \textbf{\textsc{Tâches}} \\*
                  & \begin{minipage}[t]{\rightcolumnlength}
   					         #7
                    \end{minipage}										\\*
