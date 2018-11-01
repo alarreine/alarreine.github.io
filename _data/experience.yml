@@ -1,3 +1,24 @@
+- title: Devops Engineer
+  dateinit: 2018-09-23
+  dateend: now
+  company: Bonita
+  country: France
+  description: Provide a solution to use Continuous Delivery practices for Bonita stack. Salesforce administrator and developer.
+  activities:
+    - Create and modify Ansible scripts
+    - Design and development in python
+    - Automation of deployment in AWS
+    - Participation in the implementation of Jenkins and Nexus
+  technologies:
+    - Ansible
+    - Amazon AWS
+    - Jenkins
+    - Maven
+    - Nexus
+    - Python
+    - git
+    - Salesforce
+
 - title: Internship - Devops Engineer
   dateinit: 2017-09-01
   dateend: 2018-08-31

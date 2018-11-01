@@ -50,3 +50,6 @@
   techologies:
     - UML
     - OCL
+- name: CRM
+  techologies:
+    - Salesforce
