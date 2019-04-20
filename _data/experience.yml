@@ -3,7 +3,7 @@
   dateend: now
   company: Bonita
   country: France
-  description: Provide a solution to use Continuous Delivery practices for Bonita stack. Salesforce administrator and developer.
+  description: Provide a solution to use Continuous Delivery practices for Bonita stack. Salesforce administrator.
   activities:
     - Create and modify Ansible scripts
     - Design and development in python
@@ -18,6 +18,7 @@
     - Python
     - git
     - Salesforce
+    - Jira
 
 - title: Internship - Devops Engineer
   dateinit: 2017-09-01
