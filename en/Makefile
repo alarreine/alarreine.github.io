@@ -12,5 +12,5 @@ link:
 	ln -s ../moi.png moi.png || echo "Symlink photo exist"
 
 clean:
-	rm -f ${FILE}.{lof,lol,lot,toc,ps,pdf,log,aux,out,dvi,bbl,blg,fdb_latexmk,fls,aux,out} *.log *.pdf \
+	rm -f ${FILE}.{lof,lol,lot,toc,ps,pdf,log,aux,out,dvi,bbl,blg,fdb_latexmk,fls,aux,out} *.log *.pdf
 	find . -type l -delete
