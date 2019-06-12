@@ -5,6 +5,7 @@ _site/
 
 # Jetbrain
 .idea/
+*.iml
 
 # General
 .DS_Store
