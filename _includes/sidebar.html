@@ -17,10 +17,11 @@
                     <li class="email"><i class="fa fa-envelope"></i><a href="mailto:alan.doe@website.com">alan.doe@website.com</a></li>
                     {% endif %}
                     
-                    {% if site.phone %}
-                    <li class="phone"><i class="fa fa-phone"></i><a href="tel:{{site.phone}}">{{site.phone}}</a></li>
-                    {% else %}
-                    <li class="phone"><i class="fa fa-phone"></i><a href="tel:012 345 6789">012 345 6789</a></li>
+                    {% if site.phone1 %}
+                    <li class="phone1"><i class="fa fa-phone"></i><a href="tel:{{site.phone1}}">{{site.phone1}}</a></li>
+                    {% endif %}
+                    {% if site.phone2 %}
+                    <li class="phone2"><i class="fa fa-phone"></i><a href="tel:{{site.phone2}}">{{site.phone2}}</a></li>
                     {% endif %}
                     
                     {% if site.website %}
