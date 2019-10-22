@@ -1,9 +1,11 @@
 - entity: CertiProf
+  check_url: https://www.certiprof.com/successful-candidates-register-by-cp/
   certification_id: 81566338779196
   description: Scrum Master Professional Certificate
   date: 20/08/19
 
 - entity: CertiProf
+  check_url: https://www.certiprof.com/successful-candidates-register-by-cp/
   certification_id: 71566342045766
   description: Scrum Foundation Professional Certificate
   date: 20/08/19

@@ -1,0 +1,15 @@
+ <div class="education-container container-block">
+     <h2 class="container-block-title">Certification</h2>
+     {% for cert in site.data.certification %}
+     <div class="item">
+         <h4 class="degree">{{cert.description}}</h4>
+         {% if cert.check_url %}
+         <h5 class="meta"><a href="{{cert.check_url}}"> {{cert.entity}}</a></h5>
+         {% else %}
+         <h5 class="meta">{{cert.entity}}</h5>
+         {% endif %}
+         <h5 class="meta">#{{cert.certification_id}}</h5>
+         <div class="time">{{cert.date}}</div>
+     </div><!--//item-->
+     {% endfor %}
+ </div><!--//education-container-->
