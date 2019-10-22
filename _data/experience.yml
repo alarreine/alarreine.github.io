@@ -1,3 +1,20 @@
+- title: Sr Developer Software
+  dateinit: 2019-08-20
+  dateend: current
+  company: Telecel SA
+  country: Paraguay
+  description: Provide a process automation with a BPM engine
+  activities:
+    - Analyzing the current process
+    - Proposing solutions according the environment and controls
+    - Developement
+  technologies:
+    - Java
+    - Groovy
+    - Bonita
+    - git
+    - Jira
+
 - title: Devops Engineer
   dateinit: 2017-09-01
   dateend: 2019-03-29
