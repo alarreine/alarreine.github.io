@@ -3,9 +3,9 @@
   dateend: current
   company: Telecel SA
   country: Paraguay
-  description: Provide a process automation with a BPM engine
+  description: Provide process automation with a BPM engine
   activities:
-    - Analyzing the current process
+    - Analyzing current process
     - Proposing solutions according the environment and controls
     - Developement
   technologies:
