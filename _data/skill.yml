@@ -7,6 +7,9 @@
     - PHP
     - Python
     - Ruby
+    - Plsql
+    - Plpgsql
+    - 4gl
 - name: Programming web
   techologies:
     - JSE
@@ -36,6 +39,9 @@
     - GIT
     - Jira
     - Github
+    - Trello
+    - Toggl
+    - Dbeaber
 - name: Middleware
   techologies:
     - Glassfish

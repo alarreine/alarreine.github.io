@@ -1,6 +1,24 @@
 - title: Sr Software Developer
   dateinit: 2019-08-20
-  dateend: current
+  dateend: 2020-03-05
+  company: Freelance
+  country: Paraguay
+  description: Database migration
+  activities:
+    - Analyzing current store procedures and functions
+    - Team synchronations
+    - Proposing solutions and new ways to improuve the perfomance
+    - Developement and test
+  technologies:
+    - Plsql
+    - Toggl
+    - Trello
+    - Dbeaber
+    - 4GL
+
+- title: Sr Software Developer
+  dateinit: 2019-08-20
+  dateend: 2020-03-05
   company: Telecel SA
   country: Paraguay
   description: Provide process automation with a BPM engine
