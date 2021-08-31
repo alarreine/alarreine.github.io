@@ -6,9 +6,9 @@
   description: Database migration
   activities:
     - Analyzing current store procedures and functions
-    - Team synchronations
-    - Proposing solutions and new ways to improuve the perfomance
-    - Developement and test
+    - Team synchronizations
+    - Proposing solutions and new ways to improve the performance
+    - Development and test
   technologies:
     - Plsql
     - Toggl
@@ -25,7 +25,7 @@
   activities:
     - Analyzing current process
     - Proposing solutions according the environment and controls
-    - Developement
+    - Development
   technologies:
     - Java
     - Groovy
@@ -100,7 +100,7 @@
   dateend: May-2014
   company: Contrataciones Públicas
   country: Paraguay
-  description: In charge of the Development and Preproduction Database
+  description: In charge of the Development and Pre production Database
   activities:
     - Installation and configuration of the development  and preproduction environment
     - Checking log status
