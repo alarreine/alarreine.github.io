@@ -1,3 +1,25 @@
+- title: Devops Engineer
+  dateinit: 2021-09
+  dateend: current
+  company: Bairesdev - SiriusXM
+  country: Remote
+  description: Devops Engineer Low environments
+  activities:
+    - Maintaining Jenkins server, service, jobs
+    - Synchronizations with other teams
+    - Proposing solutions and new ways to improve the performance
+    - Maintaining Artifactory
+  technologies:
+    - Jenkins
+    - Artifactory
+    - Redhat
+    - Bitbucket
+    - Jira
+    - Confluence
+    - Rundeck
+    - Ansible
+    - Agile
+
 - title: Sr Software Developer
   dateinit: 2020-03-05
   dateend: current
