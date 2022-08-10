@@ -1,6 +1,6 @@
 - title: Devops Engineer
   dateinit: 2021-09
-  dateend: current
+  dateend: 2022-08-15
   company: Bairesdev - SiriusXM
   country: Remote
   description: Devops Engineer Low environments
@@ -24,13 +24,13 @@
   dateinit: 2020-03-05
   dateend: current
   company: Punto Avatar - Freelance
-  country: Paraguay
+  country: Paraguay - Remote
   description: Database migration
   activities:
     - Analyzing current store procedures and functions
     - Team synchronizations
     - Proposing solutions and new ways to improve the performance
-    - Development and test
+    - Development and test in Oracle PLSQL
   technologies:
     - Plsql
     - Toggl
